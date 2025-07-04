@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/pafreet4
+pafreet4.so
+pafreet4.dylib
+pafreet4.dll
+pafreet4.a
+pafreet4.lib
+pafreet4-test-*
+*.exe
+*.o
+*.obj
+*.lst
