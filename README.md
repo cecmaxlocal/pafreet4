@@ -2,7 +2,7 @@ Of course. A project with such a diverse and interesting technology stack deserv
 
 Here is a `README.md` for your project, `./pafreet4`.
 
-<img src="./matrix/cec/bin/image/logon.png">
+<img src="./matrix/cec/bin/image/logon.jpg">
 
 ---
 
